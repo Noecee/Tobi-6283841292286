@@ -1,5 +1,5 @@
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Noecee/HEROKU_ZYKO_V12)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=[https://github.com/Noecee/HEROKU_ZYKO_V12](https://github.com/Noecee/Tobi-6283841292286))
 
 -
 
